@@ -1,0 +1,109 @@
+[2025-06-25 17:17:32] === Début de l'import des shapefiles ===
+[2025-06-25 17:17:32] [OK] Connexion PostgreSQL réussie.
+[2025-06-25 17:17:32] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\bfa_adm_igb_20200323_shp\bfa_admbnda_adm0_igb_20200323.shp' vers la table 'bfa_admbnda_adm0_igb_20200323'...
+[2025-06-25 17:17:32] [OK] Table 'bfa_admbnda_adm0_igb_20200323' importée avec succès.
+[2025-06-25 17:17:32] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\bfa_adm_igb_20200323_shp\bfa_admbnda_adm1_igb_20200323.shp' vers la table 'bfa_admbnda_adm1_igb_20200323'...
+[2025-06-25 17:17:33] [OK] Table 'bfa_admbnda_adm1_igb_20200323' importée avec succès.
+[2025-06-25 17:17:33] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\bfa_adm_igb_20200323_shp\bfa_admbnda_adm2_igb_20200323.shp' vers la table 'bfa_admbnda_adm2_igb_20200323'...
+[2025-06-25 17:17:33] [OK] Table 'bfa_admbnda_adm2_igb_20200323' importée avec succès.
+[2025-06-25 17:17:33] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\bfa_adm_igb_20200323_shp\bfa_admbnda_adm3_igb_20200323.shp' vers la table 'bfa_admbnda_adm3_igb_20200323'...
+[2025-06-25 17:17:35] [OK] Table 'bfa_admbnda_adm3_igb_20200323' importée avec succès.
+[2025-06-25 17:17:35] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\bfa_adm_igb_20200323_shp\bfa_admbndl_admALL_igb_itos_20200323.shp' vers la table 'bfa_admbndl_admall_igb_itos_20200323'...
+[2025-06-25 17:17:37] [OK] Table 'bfa_admbndl_admall_igb_itos_20200323' importée avec succès.
+[2025-06-25 17:17:37] === Fin du traitement ===
+
+[2025-06-26 15:11:29] === Début de l'import des shapefiles ===
+[2025-06-26 15:11:30] [OK] Connexion PostgreSQL réussie.
+[2025-06-26 15:11:30] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\bfa_adm_igb_20200323_shp\bfa_admbnda_adm0_igb_20200323.shp' vers la table 'bfa_admbnda_adm0_igb_20200323'...
+[2025-06-26 15:11:34] [OK] Table 'bfa_admbnda_adm0_igb_20200323' importée avec succès.
+[2025-06-26 15:11:34] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\bfa_adm_igb_20200323_shp\bfa_admbnda_adm1_igb_20200323.shp' vers la table 'bfa_admbnda_adm1_igb_20200323'...
+[2025-06-26 15:11:41] [OK] Table 'bfa_admbnda_adm1_igb_20200323' importée avec succès.
+[2025-06-26 15:11:41] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\bfa_adm_igb_20200323_shp\bfa_admbnda_adm2_igb_20200323.shp' vers la table 'bfa_admbnda_adm2_igb_20200323'...
+[2025-06-26 15:11:54] [OK] Table 'bfa_admbnda_adm2_igb_20200323' importée avec succès.
+[2025-06-26 15:11:54] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\bfa_adm_igb_20200323_shp\bfa_admbnda_adm3_igb_20200323.shp' vers la table 'bfa_admbnda_adm3_igb_20200323'...
+[2025-06-26 15:12:44] [OK] Table 'bfa_admbnda_adm3_igb_20200323' importée avec succès.
+[2025-06-26 15:12:44] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\bfa_adm_igb_20200323_shp\bfa_admbndl_admALL_igb_itos_20200323.shp' vers la table 'bfa_admbndl_admall_igb_itos_20200323'...
+[2025-06-26 15:14:54] [OK] Table 'bfa_admbndl_admall_igb_itos_20200323' importée avec succès.
+[2025-06-26 15:14:54] === Fin du traitement ===
+
+[2025-06-26 15:45:49] === Début de l'import des shapefiles ===
+[2025-06-26 15:45:49] [ERROR] Connexion à PostgreSQL échouée.
+[2025-06-26 15:45:49] psql: erreur : la connexion au serveur sur « localhost » (::1), port 5432 a échoué : FATAL:  authentification par mot de passe échouée pour l'utilisateur  « aen »
+
+[2025-06-26 15:45:49] [FATAL] Import annulé : connexion PostgreSQL impossible.
+[2025-06-26 15:45:49] === Fin du traitement ===
+
+[2025-06-26 15:46:13] === Début de l'import des shapefiles ===
+[2025-06-26 15:46:13] [OK] Connexion PostgreSQL réussie.
+[2025-06-26 15:46:13] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\data_bassin\cle.shp' vers la table 'cle'...
+[2025-06-26 15:46:14] [OK] Table 'cle' importée avec succès.
+[2025-06-26 15:46:14] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\data_bassin\sage.shp' vers la table 'sage'...
+[2025-06-26 15:46:14] [OK] Table 'sage' importée avec succès.
+[2025-06-26 15:46:14] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\data_bassin\sbv.shp' vers la table 'sbv'...
+[2025-06-26 15:46:14] [OK] Table 'sbv' importée avec succès.
+[2025-06-26 15:46:14] === Fin du traitement ===
+
+[2025-06-26 15:46:33] === Début de l'import des shapefiles ===
+[2025-06-26 15:46:33] [OK] Connexion PostgreSQL réussie.
+[2025-06-26 15:46:33] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\shape-file-ECAEN\EC_AEN.shp' vers la table 'ec_aen'...
+[2025-06-26 15:46:33] [OK] Table 'ec_aen' importée avec succès.
+[2025-06-26 15:46:33] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\shape-file-ECAEN\EC_SAGE.shp' vers la table 'ec_sage'...
+[2025-06-26 15:46:33] [OK] Table 'ec_sage' importée avec succès.
+[2025-06-26 15:46:33] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\shape-file-ECAEN\EC_SBV_AEN.shp' vers la table 'ec_sbv_aen'...
+[2025-06-26 15:46:33] [OK] Table 'ec_sbv_aen' importée avec succès.
+[2025-06-26 15:46:33] === Fin du traitement ===
+
+[2025-06-26 15:51:01] === Début de l'import des shapefiles ===
+[2025-06-26 15:51:01] [OK] Connexion PostgreSQL réussie.
+[2025-06-26 15:51:01] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\data_bassin\cle.shp' vers la table 'cle'...
+[2025-06-26 15:51:08] [OK] Table 'cle' importée avec succès.
+[2025-06-26 15:51:08] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\data_bassin\sage.shp' vers la table 'sage'...
+[2025-06-26 15:51:11] [OK] Table 'sage' importée avec succès.
+[2025-06-26 15:51:11] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\data_bassin\sbv.shp' vers la table 'sbv'...
+[2025-06-26 15:51:15] [OK] Table 'sbv' importée avec succès.
+[2025-06-26 15:51:15] === Fin du traitement ===
+
+[2025-06-26 15:51:55] === Début de l'import des shapefiles ===
+[2025-06-26 15:51:55] [OK] Connexion PostgreSQL réussie.
+[2025-06-26 15:51:55] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\shape-file-ECAEN\EC_AEN.shp' vers la table 'ec_aen'...
+[2025-06-26 15:51:58] [OK] Table 'ec_aen' importée avec succès.
+[2025-06-26 15:51:58] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\shape-file-ECAEN\EC_SAGE.shp' vers la table 'ec_sage'...
+[2025-06-26 15:52:01] [OK] Table 'ec_sage' importée avec succès.
+[2025-06-26 15:52:01] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\shape-file-ECAEN\EC_SBV_AEN.shp' vers la table 'ec_sbv_aen'...
+[2025-06-26 15:52:03] [OK] Table 'ec_sbv_aen' importée avec succès.
+[2025-06-26 15:52:03] === Fin du traitement ===
+
+[2025-07-17 18:18:44] === Début de l'import des shapefiles ===
+[2025-07-17 18:18:45] [OK] Connexion PostgreSQL réussie.
+[2025-07-17 18:18:45] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\shape-file-ECAEN\EC_AEN.shp' vers la table 'ec_aen'...
+[2025-07-17 18:18:49] [OK] Table 'ec_aen' importée avec succès.
+[2025-07-17 18:18:49] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\shape-file-ECAEN\EC_SAGE.shp' vers la table 'ec_sage'...
+[2025-07-17 18:18:52] [OK] Table 'ec_sage' importée avec succès.
+[2025-07-17 18:18:52] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\shape-file-ECAEN\EC_SBV_AEN.shp' vers la table 'ec_sbv_aen'...
+[2025-07-17 18:18:55] [OK] Table 'ec_sbv_aen' importée avec succès.
+[2025-07-17 18:18:55] === Fin du traitement ===
+
+[2025-07-17 18:19:29] === Début de l'import des shapefiles ===
+[2025-07-17 18:19:30] [OK] Connexion PostgreSQL réussie.
+[2025-07-17 18:19:30] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\data_bassin\cle.shp' vers la table 'cle'...
+[2025-07-17 18:19:38] [OK] Table 'cle' importée avec succès.
+[2025-07-17 18:19:38] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\data_bassin\sage.shp' vers la table 'sage'...
+[2025-07-17 18:19:42] [OK] Table 'sage' importée avec succès.
+[2025-07-17 18:19:42] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\data_bassin\sbv.shp' vers la table 'sbv'...
+[2025-07-17 18:19:45] [OK] Table 'sbv' importée avec succès.
+[2025-07-17 18:19:45] === Fin du traitement ===
+
+[2025-07-17 18:20:13] === Début de l'import des shapefiles ===
+[2025-07-17 18:20:13] [OK] Connexion PostgreSQL réussie.
+[2025-07-17 18:20:13] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\bfa_adm_igb_20200323_shp\bfa_admbnda_adm0_igb_20200323.shp' vers la table 'bfa_admbnda_adm0_igb_20200323'...
+[2025-07-17 18:20:18] [OK] Table 'bfa_admbnda_adm0_igb_20200323' importée avec succès.
+[2025-07-17 18:20:18] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\bfa_adm_igb_20200323_shp\bfa_admbnda_adm1_igb_20200323.shp' vers la table 'bfa_admbnda_adm1_igb_20200323'...
+[2025-07-17 18:20:29] [OK] Table 'bfa_admbnda_adm1_igb_20200323' importée avec succès.
+[2025-07-17 18:20:29] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\bfa_adm_igb_20200323_shp\bfa_admbnda_adm2_igb_20200323.shp' vers la table 'bfa_admbnda_adm2_igb_20200323'...
+[2025-07-17 18:20:52] [OK] Table 'bfa_admbnda_adm2_igb_20200323' importée avec succès.
+[2025-07-17 18:20:52] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\bfa_adm_igb_20200323_shp\bfa_admbnda_adm3_igb_20200323.shp' vers la table 'bfa_admbnda_adm3_igb_20200323'...
+[2025-07-17 18:22:02] [OK] Table 'bfa_admbnda_adm3_igb_20200323' importée avec succès.
+[2025-07-17 18:22:02] [INFO] Importation de 'C:\Users\HP\Desktop\Projets\import_shape\bfa_adm_igb_20200323_shp\bfa_admbndl_admALL_igb_itos_20200323.shp' vers la table 'bfa_admbndl_admall_igb_itos_20200323'...
+[2025-07-17 18:24:19] [OK] Table 'bfa_admbndl_admall_igb_itos_20200323' importée avec succès.
+[2025-07-17 18:24:19] === Fin du traitement ===
+
