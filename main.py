@@ -4,7 +4,7 @@ import shapefile_importer as sfi
 sfi.setup_postgres_env(
     host='',
     port='5434',
-    user='aen',
+    user='',
     password='',
     database='',
     pg_bin_path=r"C:\Program Files (x86)\PostgreSQL\8.4\bin"  # facultatif, pour Windows uniquement
