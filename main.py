@@ -2,11 +2,11 @@ import shapefile_importer as sfi
 
 # === Remote Configuration PostgreSQL ===
 sfi.setup_postgres_env(
-    host='188.165.58.60',
+    host='',
     port='5434',
     user='aen',
-    password='Aen@68860-',
-    database='aen',
+    password='',
+    database='',
     pg_bin_path=r"C:\Program Files (x86)\PostgreSQL\8.4\bin"  # facultatif, pour Windows uniquement
 )
 
